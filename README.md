@@ -1,4 +1,4 @@
-# GitHub 最初のプロジェクト
+# GitHub 練習用プロジェクト
 
 1. おはよう、GitHub!
 2. こんにちわ、GitHub!
