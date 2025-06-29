@@ -1,4 +1,4 @@
 # GitHub 最初のプロジェクト
 
-おはよう、GitHub!
-こんにちわ、GitHub!
+* おはよう、GitHub!
+* こんにちわ、GitHub!
