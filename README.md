@@ -4,3 +4,5 @@
 2. こんにちわ、GitHub.
 3. こんばんわ、GitHub.
 4. おやすみ、GitHub.
+
+git stashのテスト
