@@ -6,3 +6,4 @@
 4. おやすみ、GitHub.
 
 git stashのテスト
+編集
